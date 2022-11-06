@@ -113,3 +113,69 @@
 ![](199-management-comprehensive.assets/2022-11-06-16-08-49-image.png)
 
 ![](199-management-comprehensive.assets/2022-11-06-16-09-45-image.png)
+
+# 逻辑部分
+
+## 命题情况
+
+![](199-management-comprehensive.assets/2022-11-06-19-54-03-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-19-54-29-image.png)
+
+## 形式逻辑
+
+### 知识框架
+
+![](199-management-comprehensive.assets/2022-11-06-19-55-34-image.png)
+
+### 第一章 概念
+
+#### 一、概念与定义
+
+##### 1.概念与定义
+
+![](199-management-comprehensive.assets/2022-11-06-20-55-50-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-20-56-53-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-21-00-18-image.png)
+
+ ![](199-management-comprehensive.assets/2022-11-06-21-03-00-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-21-04-39-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-21-07-10-image.png)
+
+##### 2.概念的种类
+
+![](199-management-comprehensive.assets/2022-11-06-21-08-15-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-21-09-12-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-21-11-54-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-21-13-28-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-21-14-40-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-21-15-56-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-21-16-58-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-21-20-35-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-21-22-19-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-21-23-14-image.png)
+
+##### 习题自测
+
+![](199-management-comprehensive.assets/2022-11-06-21-25-48-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-21-27-00-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-21-28-45-image.png)
+
+![](199-management-comprehensive.assets/2022-11-06-21-29-50-image.png)
+
+ ![](199-management-comprehensive.assets/2022-11-06-21-30-35-image.png)
