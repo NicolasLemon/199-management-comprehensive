@@ -140,7 +140,7 @@
 
 ![](199-management-comprehensive.assets/2022-11-06-21-00-18-image.png)
 
- ![](199-management-comprehensive.assets/2022-11-06-21-03-00-image.png)
+![](199-management-comprehensive.assets/2022-11-06-21-03-00-image.png)
 
 ![](199-management-comprehensive.assets/2022-11-06-21-04-39-image.png)
 
@@ -178,4 +178,64 @@
 
 ![](199-management-comprehensive.assets/2022-11-06-21-29-50-image.png)
 
- ![](199-management-comprehensive.assets/2022-11-06-21-30-35-image.png)
+![](199-management-comprehensive.assets/2022-11-06-21-30-35-image.png)
+
+#### 二、概念的划分与关系
+
+##### 1.概念的划分
+
+![](199-management-comprehensive.assets/2022-11-07-15-25-32-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-15-27-31-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-15-29-05-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-15-29-24-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-15-30-13-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-15-34-00-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-15-35-05-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-15-40-35-image.png)
+
+##### 2.概念之间的关系
+
+![](199-management-comprehensive.assets/2022-11-07-15-46-36-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-15-47-30-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-15-48-48-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-15-52-04-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-15-54-58-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-15-55-21-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-15-57-52-image.png)
+
+##### 3.四种与概念的关系有关的谬误
+
+![](199-management-comprehensive.assets/2022-11-07-15-59-46-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-16-01-00-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-16-03-30-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-16-05-15-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-16-08-07-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-16-10-35-image.png)
+
+##### 习题自测
+
+![](199-management-comprehensive.assets/2022-11-07-16-12-17-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-16-13-45-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-16-17-35-image.png)
+
+![](199-management-comprehensive.assets/2022-11-07-16-19-10-image.png)
