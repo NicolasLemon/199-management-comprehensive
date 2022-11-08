@@ -239,3 +239,87 @@
 ![](199-management-comprehensive.assets/2022-11-07-16-17-35-image.png)
 
 ![](199-management-comprehensive.assets/2022-11-07-16-19-10-image.png)
+
+### 第二章 判断
+
+#### 知识框架
+
+![](199-management-comprehensive.assets/2022-11-08-14-21-47-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-22-49-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-25-46-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-26-47-image.png)
+
+#### 一、复合判断
+
+##### 1.假言判断
+
+![](199-management-comprehensive.assets/2022-11-08-14-31-01-image.png)
+
+###### 1).充分条件
+
+![](199-management-comprehensive.assets/2022-11-08-14-32-32-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-33-17-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-34-41-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-35-08-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-37-16-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-39-25-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-39-35-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-41-05-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-42-46-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-44-20-image.png)
+
+###### 2).必要条件
+
+![](199-management-comprehensive.assets/2022-11-08-14-48-34-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-46-46-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-49-51-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-51-51-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-52-03-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-14-54-19-image.png)
+
+###### 3).充要条件
+
+![](199-management-comprehensive.assets/2022-11-08-15-02-15-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-15-02-40-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-15-03-30-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-15-21-02-image.png)
+
+###### 4).画“箭头”的特殊句式
+
+![](199-management-comprehensive.assets/2022-11-08-15-31-18-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-15-34-03-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-15-33-42-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-15-37-40-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-16-00-38-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-16-01-47-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-16-02-48-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-16-03-47-image.png)
+
+![](199-management-comprehensive.assets/2022-11-08-16-11-43-image.png)
