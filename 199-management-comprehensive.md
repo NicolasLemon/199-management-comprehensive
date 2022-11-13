@@ -2,7 +2,7 @@
 
 * 乐学喵 - 老吕
 
-# 数学部分
+# 数学基础部分
 
 ## 大纲
 
@@ -114,7 +114,7 @@
 
 ![](199-management-comprehensive.assets/2022-11-06-16-09-45-image.png)
 
-# 逻辑部分
+# 逻辑基础部分
 
 ## 命题情况
 
@@ -323,3 +323,67 @@
 ![](199-management-comprehensive.assets/2022-11-08-16-03-47-image.png)
 
 ![](199-management-comprehensive.assets/2022-11-08-16-11-43-image.png)
+
+# 逻辑要点七讲
+
+## 第一讲 形式逻辑
+
+### 知识框架
+
+![](199-management-comprehensive.assets/2022-11-13-14-26-58-image.png)
+
+![](199-management-comprehensive.assets/2022-11-13-14-28-32-image.png)
+
+### 一、复言命题
+
+#### 1.假言命题
+
+![](199-management-comprehensive.assets/2022-11-13-15-35-41-image.png)
+
+##### 1).充分条件
+
+![](199-management-comprehensive.assets/2022-11-13-15-13-21-image.png)
+
+![](199-management-comprehensive.assets/2022-11-13-14-39-14-image.png)
+
+![](199-management-comprehensive.assets/2022-11-13-15-10-57-image.png)
+
+![](199-management-comprehensive.assets/2022-11-13-15-19-48-image.png)
+
+##### 2).必要条件
+
+![](199-management-comprehensive.assets/2022-11-13-15-27-26-image.png)
+
+![](199-management-comprehensive.assets/2022-11-13-15-26-23-image.png)
+
+##### 3).充要条件
+
+![](199-management-comprehensive.assets/2022-11-13-15-30-34-image.png)
+
+![](199-management-comprehensive.assets/2022-11-13-15-32-38-image.png)
+
+![](199-management-comprehensive.assets/2022-11-13-15-34-52-image.png)
+
+![](199-management-comprehensive.assets/2022-11-13-15-38-12-image.png)
+
+##### 4).秒杀技1
+
+![](199-management-comprehensive.assets/2022-11-13-15-39-17-image.png)
+
+![](199-management-comprehensive.assets/2022-11-13-15-42-23-image.png)
+
+![](199-management-comprehensive.assets/2022-11-13-15-46-15-image.png)
+
+![](199-management-comprehensive.assets/2022-11-13-15-45-57-image.png)
+
+##### 5).秒杀技2
+
+![](199-management-comprehensive.assets/2022-11-13-15-54-08-image.png)
+
+![](199-management-comprehensive.assets/2022-11-13-15-53-37-image.png)
+
+![](199-management-comprehensive.assets/2022-11-13-18-28-17-image.png)
+
+![](199-management-comprehensive.assets/2022-11-13-18-32-57-image.png)
+
+![](199-management-comprehensive.assets/2022-11-13-18-34-00-image.png)
