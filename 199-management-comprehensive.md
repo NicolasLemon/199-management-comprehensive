@@ -387,3 +387,21 @@
 ![](199-management-comprehensive.assets/2022-11-13-18-32-57-image.png)
 
 ![](199-management-comprehensive.assets/2022-11-13-18-34-00-image.png)
+
+#### 2.联言选言命题
+
+![](199-management-comprehensive.assets/2022-11-15-23-52-59-image.png)
+
+##### 1).联言命题
+
+![](199-management-comprehensive.assets/2022-11-16-00-00-45-image.png)
+
+![](199-management-comprehensive.assets/2022-11-16-00-03-42-image.png)
+
+![](199-management-comprehensive.assets/2022-11-16-00-05-20-image.png)
+
+![](199-management-comprehensive.assets/2022-11-16-00-06-28-image.png)
+
+![](199-management-comprehensive.assets/2022-11-16-00-08-20-image.png)
+
+![](199-management-comprehensive.assets/2022-11-16-00-11-25-image.png)
