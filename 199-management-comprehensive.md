@@ -354,6 +354,8 @@
 
 ![](199-management-comprehensive.assets/2022-11-13-15-27-26-image.png)
 
+![](199-management-comprehensive.assets/2022-11-08-14-51-51-image.png)
+
 ![](199-management-comprehensive.assets/2022-11-13-15-26-23-image.png)
 
 ##### 3).充要条件
