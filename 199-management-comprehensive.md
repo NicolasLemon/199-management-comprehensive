@@ -366,8 +366,6 @@
 
 ![](199-management-comprehensive.assets/2022-11-13-15-34-52-image.png)
 
-![](199-management-comprehensive.assets/2022-11-13-15-38-12-image.png)
-
 ##### 4).秒杀技1
 
 ![](199-management-comprehensive.assets/2022-11-13-15-39-17-image.png)
@@ -407,3 +405,27 @@
 ![](199-management-comprehensive.assets/2022-11-16-00-08-20-image.png)
 
 ![](199-management-comprehensive.assets/2022-11-16-00-11-25-image.png)
+
+##### 2).相容选容命题
+
+![](199-management-comprehensive.assets/2022-11-17-15-49-05-image.png)
+
+![](199-management-comprehensive.assets/2022-11-17-15-50-26-image.png)
+
+ ![](199-management-comprehensive.assets/2022-11-17-15-51-50-image.png)
+
+![](199-management-comprehensive.assets/2022-11-17-15-54-14-image.png)
+
+![](199-management-comprehensive.assets/2022-11-17-15-57-04-image.png)
+
+![](199-management-comprehensive.assets/2022-11-17-16-02-15-image.png)
+
+##### 3).不相容选言命题
+
+![](199-management-comprehensive.assets/2022-11-17-16-07-32-image.png)
+
+![](199-management-comprehensive.assets/2022-11-17-16-08-49-image.png)
+
+![](199-management-comprehensive.assets/2022-11-17-16-15-51-image.png)
+
+![](199-management-comprehensive.assets/2022-11-17-16-16-55-image.png)
